@@ -1,0 +1,2 @@
+# CountingProject
+Counts Characters
